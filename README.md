@@ -1,6 +1,4 @@
-# Project Title
-Simple overview of use/purpose.
+# Benchmarking taxane signatures
+This is a repository for making a benchmarking study using Omnibenchmark 
 
-# Description
-An in-depth paragraph about your project and overview of use.
 
